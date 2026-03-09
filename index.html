@@ -709,7 +709,7 @@ function loop() {
 
   // 声で星を生成
   if (micActive && vol > 0.04) {
-    const count = Math.floor(vol * 4) + 1;
+    const count = Math.floor(vol * 0.5) + 1;
     for (let i = 0; i < count; i++) {
       stars.push(new Star(
         canvas.width * 0.3 + Math.random() * canvas.width * 0.4,
