@@ -15,8 +15,9 @@ https://aisiteru.vercel.app
 <img width="292" height="452" alt="aisiteru" src="https://github.com/user-attachments/assets/51725945-19ae-4a5d-b796-fd1b31e6e930" />
 
 
-<img width="431" height="455" alt="aisiteru1" src="https://github.com/user-attachments/assets/8a06f0a6-039f-432c-9516-2e1a78edba11" 
 
+
+<img width="431" height="455" alt="aisiteru1" src="https://github.com/user-attachments/assets/4600ef2e-53b3-4fcf-ab5c-7126944b8847" />
 
 
 
